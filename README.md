@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anshumanrai433/anshumanrai433/main/anshuman-dark-blue-banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/anshumanrai433/anshumanrai433/main/BANNER.png" width="100%" alt="banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Anshuman Rai</h1>
 <h3 align="center">Java Developer | SQL | AWS Enthusiast</h3>
